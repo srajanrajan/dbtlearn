@@ -1,0 +1,138 @@
+2023-05-01 09:34:27.560454 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 09:34:57.807074 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 09:44:41.276341 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 09:49:00.356689 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 11:11:19.121407 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 11:15:37.206499 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 11:23:39.285961 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 12:59:49.880845 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 13:03:45.808661 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 13:07:51.158330 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 13:15:47.537364 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 13:18:47.370705 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 13:20:03.573233 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 13:23:43.052102 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 13:24:41.949227 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 14:08:27.996560 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 16:38:57.832077 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 16:39:00.370055 (Thread-1 (worker)): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-01 16:42:37.016400 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 16:51:11.512956 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 16:57:22.523090 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 17:11:47.954623 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 17:17:30.230243 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 17:18:39.503397 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 17:22:10.644738 (MainThread): pkg_resources is deprecated as an API
+2023-05-01 17:22:22.526169 (MainThread): pkg_resources is deprecated as an API
+2023-05-02 08:51:59.129664 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 07:55:38.702831 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 14:03:24.615877 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 14:03:25.276092 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 14:04:07.107923 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:13:39.372346 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:13:40.093013 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:20:00.793581 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:22:18.155158 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:24:52.549219 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:26:26.181812 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:27:06.411101 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:27:48.866702 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:43:46.979335 (MainThread): pkg_resources is deprecated as an API
+2023-05-03 17:43:49.337991 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.347957 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.394806 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.396800 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.398796 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.409769 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.410766 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.420260 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:43:49.420260 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-03 17:44:08.426660 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 11:54:02.608062 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:05:12.151612 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:05:12.821225 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.822222 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.824215 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.835684 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.835684 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.844655 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.844655 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.851632 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.857615 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.858612 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.859608 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.865591 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.866588 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.867584 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.869577 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.870574 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:05:12.874562 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:06:23.639019 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:06:42.248352 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:16:32.567031 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:18:35.643336 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:18:36.294485 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.297475 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.301462 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.315415 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.316412 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.329370 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.330371 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.337367 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.344831 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.344831 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.346828 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.353804 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.354808 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.356795 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.358795 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.360781 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:18:36.366761 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:04.664312 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:19:05.229197 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.232341 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.234334 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.246301 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.246301 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.255307 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.255307 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.261264 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.266749 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.266749 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.268744 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.275723 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.275723 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.277715 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.279718 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.281707 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:05.285694 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-08 12:19:25.060667 (MainThread): pkg_resources is deprecated as an API
+2023-05-08 12:19:39.122942 (MainThread): pkg_resources is deprecated as an API
+2023-05-10 09:29:16.804190 (MainThread): pkg_resources is deprecated as an API
+2023-05-10 09:37:43.934226 (MainThread): pkg_resources is deprecated as an API
+2023-05-10 09:41:39.016968 (MainThread): pkg_resources is deprecated as an API
+2023-05-10 09:49:47.921895 (MainThread): pkg_resources is deprecated as an API
+2023-05-10 09:49:49.860056 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.868542 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.937316 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.939309 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.941303 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.958250 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.958250 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.973715 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.974712 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.982685 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.985675 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.988665 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:49.993648 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:50.001622 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:50.008599 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:50.009595 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:50.012586 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:50.020560 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:50.021557 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:52.704729 (Thread-4 (worker)): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:52.981204 (Thread-1 (worker)): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:54.369079 (Thread-3 (worker)): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:54.575777 (Thread-2 (worker)): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2023-05-10 09:49:58.836016 (Thread-1 (worker)): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
